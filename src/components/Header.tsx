@@ -28,6 +28,7 @@ export function Header() {
         <h1 className="text-2xl font-extrabold">MagaNets</h1>
       </Link>
       <button
+        data-testid="btn-hamburguer"
         onClick={handleButtonNav}
         className="md:hidden w-12 h-12 rounded-full flex flex-col justify-center items-center gap-2 transition-all"
       >
