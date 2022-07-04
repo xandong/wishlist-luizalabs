@@ -11,6 +11,7 @@ export function App() {
         <Header />
         <Routes>
           <Route path="/" element={<Home />} />
+          <Route path="products" element={<Home />} />
           <Route path="wishlist" element={<Wishlist />} />
           <Route path="products/:sku" element={<Product />} />
         </Routes>
