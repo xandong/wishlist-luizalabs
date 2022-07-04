@@ -1,13 +1,14 @@
 import { Heart, MagnifyingGlass, MapPin, Phone } from "phosphor-react";
 import { useState } from "react";
 import { Link } from "react-router-dom";
+import useMedia from "use-media";
 import { LiNav } from "./styled-components/LiNav";
 
 export function Header() {
   const [geolocation, setGeolocation] = useState("Cidade: São Paulo");
   const [toggleHamburguer, setToggleHamburguer] = useState(false);
   const [search, setSearch] = useState("");
-  const isWideScreen = window.matchMedia("minWidth: 768").matches;
+  const isWideScreen = useMedia({ minWidth: 768 });
 
   function handleButtonNav() {
     setToggleHamburguer(!toggleHamburguer);
