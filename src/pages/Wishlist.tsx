@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import { useRequest } from "../components/hooks/useRequest";
+import { useRequest } from "../hooks/useRequest";
 import { Main } from "../components/styled-components/Main";
 import { CardProductBasic } from "../components/CardProductBasic";
 import { Header } from "../components/Header";

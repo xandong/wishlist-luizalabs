@@ -3,7 +3,7 @@ import {
   ICardBasicItem,
 } from "../components/CardProductBasic";
 import { Header } from "../components/Header";
-import { useRequest } from "../components/hooks/useRequest";
+import { useRequest } from "../hooks/useRequest";
 import { Main } from "../components/styled-components/Main";
 
 export function Home() {
