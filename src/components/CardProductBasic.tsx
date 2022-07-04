@@ -64,7 +64,8 @@ export function CardProductBasic({
       )}
       <Link
         onClick={saveFavorites}
-        to={`products/${sku}`}
+        // to={`products/${sku}`}
+        to={`/products`}
         className="w-48 min-h-[18rem] p-2 mb-4
         flex flex-col items-center gap-4
         font-semibold
