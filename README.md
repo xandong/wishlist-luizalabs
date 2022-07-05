@@ -40,7 +40,7 @@ Projeto feito em react com typescript de uma wishlist (lista de favoritos) em um
 
 Com as funcionalidades de adicionar e remover, e acesso a aba de favoritos que contém a funcionalidade de remover
 
-Adicionado: 
+###Adicionado: 
 - Responsividade
 - Hover e focus
 - Funcionalidades na navbar.
@@ -50,8 +50,6 @@ Adicionado:
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através do link abaixo:
-
-<img src="https://prnt.sc/-khkv0NjPGWr" alt="layout" >
 
 - [Layout Web](https://prnt.sc/-khkv0NjPGWr) 
 
