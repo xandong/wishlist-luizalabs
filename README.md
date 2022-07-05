@@ -25,9 +25,12 @@ $ npm install
 
 # Iniciar o projeto
 $ npm run dev
+
 O app estará disponível no seu browser pelo endereço http://localhost:3000.
+
 ou
 $ npm run dev
+
 O app estará disponível no seu browser pelo endereço http://localhost:4173.
 ```
 
