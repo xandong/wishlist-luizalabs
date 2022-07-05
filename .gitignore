@@ -1,8 +1,8 @@
 .env
 coverage
 
-src/components/CardProductComplete.tsx
-src/pages/Product.tsx
+./src/components/CardProductComplete.tsx
+./src/pages/Product.tsx
 
 # Logs
 logs
