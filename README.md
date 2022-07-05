@@ -25,12 +25,11 @@ $ npm install
 
 # Iniciar o projeto
 $ npm run dev
-
 O app estará disponível no seu browser pelo endereço http://localhost:3000.
 
 ou
-$ npm run dev
 
+$ npm run dev
 O app estará disponível no seu browser pelo endereço http://localhost:4173.
 ```
 
@@ -40,7 +39,7 @@ Projeto feito em react com typescript de uma wishlist (lista de favoritos) em um
 
 Com as funcionalidades de adicionar e remover, e acesso a aba de favoritos que contém a funcionalidade de remover
 
-###Adicionado: 
+### Adicionado: 
 - Responsividade
 - Hover e focus
 - Funcionalidades na navbar.
