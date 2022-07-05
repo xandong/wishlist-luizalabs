@@ -10,13 +10,6 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 - [Jest](https://jestjs.io/pt-BR/)
 - [Vite](https://vitejs.dev/)
 
-<li><a href="https://pt-br.reactjs.org/" target="_blank">React</a></li>
-<li><a href="https://www.typescriptlang.org/" target="_blank">Typescript</a></li>
-<li><a href="https://tailwindcss.com/" target="_blank">Tailwindcss</a></li>
-<li><a href="https://jestjs.io/pt-BR/" target="_blank">Vite</a></li>
-<li><a href="https://vitejs.dev/" target="_blank">Vite</a></li>
-</ul>
-
 ## 🚀 Como executar
 
 Clone o projeto e acesse a pasta do mesmo
@@ -32,8 +25,11 @@ $ npm install
 
 # Iniciar o projeto
 $ npm run dev
-```
 O app estará disponível no seu browser pelo endereço http://localhost:3000.
+ou
+$ npm run dev
+O app estará disponível no seu browser pelo endereço http://localhost:4173.
+```
 
 ## 💻 Projeto
 
