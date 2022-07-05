@@ -50,7 +50,8 @@ Adicionado:
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através do link abaixo:
-<img src="https://prnt.sc/-khkv0NjPGWr" alt="layout" />
+
+<img src="https://prnt.sc/-khkv0NjPGWr" alt="layout" >
 
 - [Layout Web](https://prnt.sc/-khkv0NjPGWr) 
 
