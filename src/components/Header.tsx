@@ -1,7 +1,9 @@
+require("dotenv").config();
 import { Heart, MagnifyingGlass, MapPin, Phone } from "phosphor-react";
 import { useState } from "react";
 import { Link } from "react-router-dom";
 import useMedia from "use-media";
+// import { useRequest } from "../hooks/useGetGeolocation";
 import { LiNav } from "./styled-components/LiNav";
 
 export function Header() {
@@ -14,8 +16,19 @@ export function Header() {
     setToggleHamburguer(!toggleHamburguer);
   }
 
-  async function getLocation() {
-    if ("geolocation" in navigator) return console.log("Location: ok");
+  function getLocation() {
+    return;
+    // if (navigator.geolocation) {
+    //   navigator.geolocation.getCurrentPosition(showPosition);
+    // }
+    // function showPosition(position: {
+    //   coords: { latitude: any; longitude: any };
+    // }) {
+    //   const { data } = use(
+    //     `https://maps.googleapis.com/maps/api/geocode/json?latlng=${position.coords.latitude},${position.coords.longitude}&key=${process.env.API_KEY_GEOLOCATION}`
+    //   );
+    //   console.log(data);
+    // }
   }
 
   function handleSearch(e: { preventDefault: () => void }) {
