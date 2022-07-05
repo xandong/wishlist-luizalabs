@@ -20,7 +20,7 @@ Com as funcionalidades de adicionar e remover, e acesso a aba de favoritos que c
 ### Adicionado: 
 - Responsividade
 - Hover e focus
-- Funcionalidades na navbar.
+- Funcionalidades na navbar
 - Page de not found
 - Page do item (em desenvolvimento)
 
