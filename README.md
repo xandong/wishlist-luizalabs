@@ -29,7 +29,7 @@ O app estará disponível no seu browser pelo endereço http://localhost:3000.
 
 ou
 
-$ npm run dev
+$ npm run preview
 O app estará disponível no seu browser pelo endereço http://localhost:4173.
 ```
 
