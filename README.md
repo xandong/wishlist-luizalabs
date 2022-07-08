@@ -29,7 +29,7 @@ Com as funcionalidades de adicionar e remover, e acesso a aba de favoritos que c
 
 Você pode visualizar o layout do projeto através do link abaixo:
 
-![Layout Web](https://prnt.sc/-khkv0NjPGWr) 
+[Layout Web](https://prnt.sc/-khkv0NjPGWr) 
 
 ## 🚀 Como executar
 
