@@ -14,7 +14,7 @@ export function Home() {
     <>
       <Header />
       <Main>
-        <h2 className="mb-6 text-lg font-extrabold">Home</h2>
+        <h1 className="mb-6 text-lg font-extrabold">Home</h1>
 
         <section className="w-full flex justify-center">
           <ul className="flex flex-wrap justify-center gap-4">

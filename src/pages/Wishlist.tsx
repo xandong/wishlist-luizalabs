@@ -13,12 +13,12 @@ export function Wishlist() {
     <>
       <Header />
       <Main>
-        <h2 className="mb-6 text-lg font-extrabold">
+        <h1 className="mb-6 text-lg font-extrabold">
           <Link to="/" className="hover:underline hover:text-purple-850">
             Home
           </Link>
           {" > Lista de desejos"}
-        </h2>
+        </h1>
         <section className="w-full flex justify-start">
           <ul className="flex flex-wrap justify-center gap-4">
             {data?.map(

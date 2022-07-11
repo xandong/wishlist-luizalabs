@@ -25,7 +25,7 @@ export function Header() {
   return (
     <header className="w-full px-8 py-6 bg-purple-850 text-zinc-50 font-medium flex justify-between md:items-baseline items-center gap-4 border-t-4 border-purple-950 relative shadow z-20">
       <Link to="/">
-        <h1 className="text-2xl font-extrabold">MagaNets</h1>
+        <span className="text-2xl font-extrabold">MagaNets</span>
       </Link>
       <button
         data-testid="btn-hamburguer"
